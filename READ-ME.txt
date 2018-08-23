@@ -1,0 +1,16 @@
+References:
+
+The game was acctualy created following a tutorial from the Udemy course:
+Complete C# Unity Developer 2D :https://www.udemy.com/unitycourse/learn/v4/content
+,section 5:Block Breaker;which is a single player game.
+The github project that the teacher provides us in the end of the tutorial is:
+https://github.com/CompleteUnityDeveloper/05-Block-Breaker.
+
+However, during the tutorial,we changed the Gameplay, Game Physics, Input Management System, parts of the scripts and some Assets.
+All the changes were made in order to create a local multiplayer game, that has only one in game scene.
+So, this proves it was an active learning process in the first place and we also brought our own effort to meet the requirements.
+
+YouTube link :
+https://www.youtube.com/watch?v=HG3O6TCGKRE&feature=youtu.be
+
+
