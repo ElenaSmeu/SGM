@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Breaker Tuto", "Assembly-CSharp.csproj", "{D3F863DE-5A53-65CD-4CCA-3476AAA4622E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Breaker Tuto", "Assembly-CSharp-firstpass.csproj", "{A706CB54-FE2E-5FE6-2163-0AB9322429DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Breaker Tuto", "Assembly-CSharp-Editor-firstpass.csproj", "{0235C1A2-AA16-B3F7-3001-ECD5C8FADB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F863DE-5A53-65CD-4CCA-3476AAA4622E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F863DE-5A53-65CD-4CCA-3476AAA4622E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F863DE-5A53-65CD-4CCA-3476AAA4622E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F863DE-5A53-65CD-4CCA-3476AAA4622E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A706CB54-FE2E-5FE6-2163-0AB9322429DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A706CB54-FE2E-5FE6-2163-0AB9322429DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A706CB54-FE2E-5FE6-2163-0AB9322429DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A706CB54-FE2E-5FE6-2163-0AB9322429DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0235C1A2-AA16-B3F7-3001-ECD5C8FADB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0235C1A2-AA16-B3F7-3001-ECD5C8FADB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0235C1A2-AA16-B3F7-3001-ECD5C8FADB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0235C1A2-AA16-B3F7-3001-ECD5C8FADB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
